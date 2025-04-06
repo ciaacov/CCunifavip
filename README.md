@@ -1,6 +1,6 @@
 # Iaacov Ramalho
-## Sobre mim
-Ola, Meu nome é Iaacov, tenho 46 anos, Bacharel em Direito, atualmente estudo Ciências da Computação, por enquanto com foco em python, C e banco de dados, **Back-end Developer**.
+## 🙋🏼‍♂️ Sobre mim
+Olá, meu nome é Iaacov. Aos 46 anos, trago uma bagagem diversificada com minha formação em Direito e uma energia renovada como estudante de Ciências da Computação. Estou entusiasmado em construir o futuro digital como Back-end Developer, com minhas habilidades em Python, C e bancos de dados em constante aprimoramento.
 
 ### 🛠 Principais Tecnologias e Ferramentas
 
@@ -20,13 +20,13 @@ Ola, Meu nome é Iaacov, tenho 46 anos, Bacharel em Direito, atualmente estudo C
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ciaacov&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-**Sistemas Operacionais**
+### 💻 **Sistemas Operacionais**
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 
-### Social
+### 📱 Social
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/icoiaacov)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaim-oliveira-048b2b2a)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:icoiaacov@gmail.com)

@@ -2,6 +2,9 @@
 ## 🙋🏼‍♂️ Sobre mim
 Olá, meu nome é Iaacov. Aos 46 anos, trago uma bagagem diversificada com minha formação em Direito e uma energia renovada como estudante de Ciências da Computação. Estou entusiasmado em construir o futuro digital como Back-end Developer, com minhas habilidades em Python, C e bancos de dados em constante aprimoramento.
 
+## 🙋🏼‍♂️ About Me
+Hello, my name is Iaacov. At 46 years old, I bring a diverse background with my degree in Law and a renewed energy as a Computer Science student. I'm excited to help shape the digital future as a Back-end Developer, continuously improving my skills in Python, C, and databases.
+
 ### 🛠 Principais Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,9 +29,21 @@ Olá, meu nome é Iaacov. Aos 46 anos, trago uma bagagem diversificada com minha
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 
+<!-- Portfolio -->
+## 42 piscine:
+- [piscine - 42](https://github.com/ciaacov/piscine42.git)
+
+
+
 ### 📱 Social
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/icoiaacov)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaim-oliveira-048b2b2a)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:icoiaacov@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+351933106181)  
 [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ciaacov)
+
+
+<!-- GIF -->
+<p align="center">
+  <img align="center" src="https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gifv">
+</p>
